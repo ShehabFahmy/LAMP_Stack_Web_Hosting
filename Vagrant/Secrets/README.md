@@ -1,0 +1,1 @@
+This directory is reserved for storing sensitive data, including all passwords used in this task. For security reasons, the files in this folder were excluded from the upload and are not included in the repository.

@@ -1,0 +1,6 @@
+.vagrant
+Vagrant/Secrets/*
+!Vagrant/Secrets/README.md
+.terraform
+.terraform.*
+terraform.*
